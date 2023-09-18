@@ -1,7 +1,7 @@
 # AIFFEL_Project
 
 <p align="left">
-  <img src="![image](https://github.com/pingpeng1017/aiffel_project/assets/97069558/1585eb2d-e4ea-4963-8c5d-840beeb0af71)
+  <img src="![image](https://github.com/pingpeng1017/aiffel_project/assets/97069558/fc08ce65-4d7f-402e-9e05-509db055a323)
 ">
 </p>
 
