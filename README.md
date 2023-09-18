@@ -1,4 +1,4 @@
-# AIFFEL_Project
+# AIFFEL_Project🗼
 
 ![프로젝트 이미지](https://github.com/pingpeng1017/aiffel_project/assets/97069558/fc08ce65-4d7f-402e-9e05-509db055a323)
 
